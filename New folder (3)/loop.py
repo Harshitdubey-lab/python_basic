@@ -6,6 +6,7 @@
 # for i in range(2,21,3):
 #     print(i) 
 
+
 # a = "elephant"
 # # for i in range(len(a)):
 # #     print(a[i]) # length
