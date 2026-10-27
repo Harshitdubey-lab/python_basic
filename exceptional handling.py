@@ -10,6 +10,7 @@
 # raise :- manually throw an exceptional
 
 # e.g
+
 # try:
 #     num = int(input("enter  "))
 #     print(10/num)
